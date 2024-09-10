@@ -1,0 +1,28 @@
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.exe
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.deps.json
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.runtimeconfig.json
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.pdb
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.AssemblyInfoInputs.cache
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.AssemblyInfo.cs
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.csproj.CoreCompileInputs.cache
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\refint\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.pdb
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.genruntimeconfig.cache
+C:\Users\GeierAlexandra\source\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\ref\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.exe
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.deps.json
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.runtimeconfig.json
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\bin\Debug\net8.0\Uebung_Lottozahlen.pdb
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.AssemblyInfoInputs.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.AssemblyInfo.cs
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.csproj.CoreCompileInputs.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\refint\Uebung_Lottozahlen.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.pdb
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\Uebung_Lottozahlen.genruntimeconfig.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Uebungen\Uebung_Lottozahlen\obj\Debug\net8.0\ref\Uebung_Lottozahlen.dll
