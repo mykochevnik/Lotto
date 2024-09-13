@@ -4,6 +4,8 @@ internal static class Title
 {
     public static void PrintTitle()
     {
+        Console.Clear();
+
         Console.WriteLine("\n\n");
 
         //Erste Zeile fast komplett in Farbe DarkGray

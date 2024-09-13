@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uebung_Lottozahlen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44b0ef6460f6c0f537a9e36138d805eb8de16cc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uebung_Lottozahlen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uebung_Lottozahlen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
